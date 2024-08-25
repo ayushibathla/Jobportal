@@ -20,7 +20,7 @@ const Homepage = () => {
     <div className="homepage">
       <div className="homepage-container">
       <Fade left> <div className="homepage-box">
-          <h1>Job Nest</h1>
+          <h1>Jobshub</h1>
           <p>India's Number 1 Platform For Job Search </p>
           <div className="homepage-numbers">
             <p>10 Lakh Jobs |</p>

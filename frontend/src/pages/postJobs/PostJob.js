@@ -33,7 +33,7 @@ const PostJob = () => {
     <Layout>
     <div className='post-job'>
       <div className='post-job-heading'>
-        <h1>Job Nest </h1>
+        <h1>JobsHub </h1>
         <h2>India Leading Job Searching Platform</h2>
         <h3>Register Yourself Now To Start Your Journey</h3>
         <h4>Post Job's Now And Hire Desired Employees</h4>

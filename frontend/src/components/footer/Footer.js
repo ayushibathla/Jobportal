@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='footer'>
        <div className='footer-info'>
-          <h2>Job Nest</h2>
+          <h2>JobsHub</h2>
           <p>Our website offers jobs in almost every region in India.We are awarded as the best job searching website making us number one job searching website of the year</p>
        </div>
        <div className='footer-links'>
@@ -16,8 +16,8 @@ const Footer = () => {
        </div>
        <div className='footer-contact'>
           <h2>Contact Us</h2>
-          <p>☎  +91 9411568418</p>
-          <p>✉ rachitdhyani2002@gmail.com </p>
+          <p>☎  +91 8077602273</p>
+          <p>✉ khushibathla91@gmail.com </p>
           <p>🏳 Uttrakhand, India</p>
        </div>
     </div>
